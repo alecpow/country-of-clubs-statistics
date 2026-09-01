@@ -32,10 +32,6 @@ It does **not** contain club-level records, individual source URLs, unpublished 
 - Counts and eligibility decisions describe the database at the snapshot date and may change as records are updated.
 - The published aggregates should not be interpreted as a census of every golf or country club.
 
-## License
-
-No license has been selected inside this package. Select the intended license when creating the repository record and update this README before publication. The license determines how others may reuse the aggregate statistics.
-
 ## Contact and methodology
 
 Research producer: Country of Clubs  
