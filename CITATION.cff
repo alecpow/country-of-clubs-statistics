@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite the canonical Figshare release."
+type: dataset
+title: "Country of Clubs Aggregate Statistics — August 2026"
+version: 1.0.0
+doi: 10.6084/m9.figshare.33406237
+date-released: 2026-09-01
+authors:
+  - family-names: "Pow"
+    given-names: "Alec"
+url: "https://doi.org/10.6084/m9.figshare.33406237"
+repository-code: "https://github.com/alecpow/country-of-clubs-statistics"
