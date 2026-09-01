@@ -1,0 +1,12 @@
+Suggested citation
+
+Country of Clubs Research. (2026). Country of Clubs Aggregate Statistics — August 2026 (Version 1.0.0) [Data set]. Country of Clubs. https://doi.org/10.6084/m9.figshare.33406237
+
+Website: https://www.countryofclubs.com/
+Methodology: https://www.countryofclubs.com/methodology/
+
+Research producer: Country of Clubs
+
+Canonical DOI: https://doi.org/10.6084/m9.figshare.33406237
+
+Use Alec Pow as the linked individual author with ORCID and Country of Clubs as the affiliation/research-producing organization where repository fields permit.
