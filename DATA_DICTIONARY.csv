@@ -1,0 +1,21 @@
+field_name,data_type,required,description,example
+statistic_id,string,yes,"Stable machine-readable identifier for the statistic.",initiation_fee_median
+section,string,yes,"Logical report section containing the statistic.",price_benchmark
+metric,string,yes,"Human-readable statistic name.",Documented initiation-fee median
+scope,string,yes,"Geographic or database population covered by the statistic.",All Country of Clubs regions
+as_of_date,date,yes,"Database snapshot date in ISO 8601 format.",2026-08-28
+value,number,yes,"Primary numeric value without display formatting.",25000
+value_text,string,yes,"Human-readable formatted representation of value.","$25,000"
+unit,string,yes,"Measurement unit for value.",currency
+numerator,integer,no,"Count in the metric category when the statistic is a share.",1853
+denominator,integer,no,"Researched comparison base used to calculate a share.",3840
+sample_size,integer,no,"Number of records used in the calculation or benchmark cohort.",1262
+coverage_percent,number,no,"Share of the relevant scope represented by sample_size or denominator.",48.3
+lower_quartile,number,no,"25th percentile of a benchmark distribution.",5000
+median,number,no,"50th percentile of a benchmark distribution.",25000
+upper_quartile,number,no,"75th percentile of a benchmark distribution.",75000
+currency,string,no,"ISO-style currency code for monetary statistics.",USD
+billing_period,string,no,"Billing or measurement period for a price statistic.",monthly
+cohort_year_start,integer,no,"First effective year included in a dated benchmark cohort.",2024
+cohort_year_end,integer,no,"Last effective year included in a dated benchmark cohort.",2026
+qualification,string,yes,"Important population, compatibility, or interpretation limitation.",Comparable individual or standard-tier records only.
